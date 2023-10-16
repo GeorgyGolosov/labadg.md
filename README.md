@@ -49,10 +49,7 @@
 232103! 2E4
 232103! 2E4D
 2321031 2E4D
-![case2](https://disk.yandex.ru/i/mOREMDIcLPfQUA)
-![mainmachine](https://disk.yandex.ru/i/gg02clwLXzCNhg)
-![left!](https://disk.yandex.ru/i/3QrByhZ55NognQ)
-![s1](https://disk.yandex.ru/i/686WNLYBQdezFg)
+![case2](/case2.png)
 ## 9. Дневник отладки
 1.| Дом| 15.10.2023 | 21:00 | ДТ не скомпилировался из-за того, что для одной элементарной МТ "r" указал переход по пробелу в двух местах. Исправил ошибку.
 ## 10. Замечания автора по существу работы
