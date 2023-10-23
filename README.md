@@ -49,10 +49,11 @@
 232103! 2E4\
 232103! 2E4D\
 2321031 2E4D\
-Машина case2\
-<img width="1495" alt="case2" src="https://github.com/GeorgyGolosov/labadg.md/assets/144679496/09d1e1c1-ec46-4bbe-be98-6e2b55ba3737">\
+
 Машина main\
 <img width="770" alt="main" src="https://github.com/GeorgyGolosov/labadg.md/assets/144679496/623a7a9e-db79-4aff-a1f8-bbe3e76ac187">\
+Машина case2\
+<img width="1495" alt="case2" src="https://github.com/GeorgyGolosov/labadg.md/assets/144679496/09d1e1c1-ec46-4bbe-be98-6e2b55ba3737">\
 Машина s1\
 <img width="722" alt="s1" src="https://github.com/GeorgyGolosov/labadg.md/assets/144679496/f08cce87-bad3-48f8-b58a-1a4ca759ff0a">\
 Машина left!\
